@@ -1,17 +1,25 @@
-# Deloitte Australia Cybersecurity Virtual Experience Program
+# Deloitte Australia Cybersecurity Virtual Internship
 
-✅ Completed via [Forage](https://www.theforage.com/virtual-experience/E9pA6qsdbeyEkp3ti/deloitte-australia/cyber-c1e3/finish-line)
+🚀 Completed via [Forage](https://www.theforage.com/virtual-experience/E9pA6qsdbeyEkp3ti/deloitte-australia/cyber-c1e3/finish-line)
 
-## 🌐 Program Overview
-This virtual internship, offered by Deloitte Australia through Forage, provided hands-on experience with:
-- Analyzing cybersecurity threats
-- Writing incident response reports
-- Understanding business impact analysis
-- Communicating with stakeholders about risks
+## 📘 Program Overview
+This virtual internship simulates real-world cybersecurity tasks performed at Deloitte. It helped me develop practical skills in:
+- Analyzing phishing emails and suspicious activity
+- Conducting threat intelligence
+- Writing executive summaries and incident reports
 
-## 📃 What I Did
-- Completed multiple real-world simulations related to cybersecurity
-- Gained experience in analyzing phishing attacks
-- Drafted a sample executive summary for a simulated client
+## 📂 What I Learned
+- How to handle cybersecurity threats in real business scenarios
+- Stakeholder communication for cybersecurity incidents
+- Business risk analysis and reporting
 
-## 🔗 [View My Program Completion Page](https://www.theforage.com/virtual-experience/E9pA6qsdbeyEkp3ti/deloitte-australia/cyber-c1e3/finish-line)
+## 🏁 Certificate
+![Certificate](certificate.png) 
+
+## 📎 Resources
+- Project documentation
+- Sample response report
+- Final summary presentation
+
+## 🔗 [Official Program Link (Forage)](https://www.theforage.com/virtual-experience/E9pA6qsdbeyEkp3ti/deloitte-australia/cyber-c1e3/finish-line)
+
